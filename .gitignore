@@ -220,3 +220,8 @@ weights/
 *.keras
 *.hdf5
 data*/
+pcam*/
+food*
+food*/
+MNIST*
+MNIST*/
