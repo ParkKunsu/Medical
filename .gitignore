@@ -225,3 +225,6 @@ food*
 food*/
 MNIST*
 MNIST*/
+*.gif
+*gz
+spams-python/
